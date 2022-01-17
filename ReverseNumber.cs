@@ -11,6 +11,7 @@ namespace PracticeProblem
        
             public void FindFibonocciSeriesNumber()
             {
+                //Number
                 Console.Write("please enter how many fibonacci numbers we have to generate");
                 int number = Convert.ToInt32(Console.ReadLine());
                 int first = 0, second = 1;
